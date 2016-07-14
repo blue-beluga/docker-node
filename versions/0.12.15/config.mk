@@ -1,0 +1,2 @@
+
+export NODE_VERSION = 0.12.15
