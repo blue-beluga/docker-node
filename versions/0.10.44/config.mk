@@ -1,3 +1,4 @@
+# encoding: UTF-8
 
 export NODE_VERSION = 0.10.44
 export NODE_SHA256 = b5f4acc54e5527d793463e05b5435f11dd1f0997168aa71d53a1ff1a06c7b144
